@@ -12,7 +12,6 @@
 🎓 &nbsp;I'm a Computer Science and Political Science student at Amherst College!\
 ✍️ &nbsp;In my free time, I like scuba diving, boxing, travelling, and reading _anything_ .\
 💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at aaly24@amherst.edu! I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
