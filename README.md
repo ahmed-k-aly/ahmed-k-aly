@@ -11,7 +11,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm a Computer Science and Political Science student at Amherst College!\
 ✍️ &nbsp;In my free time, I like scuba diving, boxing, travelling, and reading _anything_ .\
-💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.
 
 
 ### 🛠 &nbsp;Tech Stack
