@@ -37,4 +37,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-k-aly/"><img src="https://img.shields.io/badge/-Ahmed%20Aly-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:aaly24@amherst.edu"><img src="https://img.shields.io/badge/%20Email-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
